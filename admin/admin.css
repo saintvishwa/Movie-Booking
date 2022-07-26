@@ -1,0 +1,27 @@
+.panel{
+  width: 100px;
+    background-color: #212529;
+    height: 573px;
+}
+a:link, a:visited {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-top: 5px;margin-bottom: 5px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+a:hover, a:active {
+  background-color: #444444;
+
+}
+.panel{
+  float: left;
+}
+.dashbord{
+  float:left;
+}

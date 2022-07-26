@@ -1,0 +1,50 @@
+body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("cinema.jfif");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.coming{
+    font-size: 50px;
+    color: #fff;
+    line-height: 1.2;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 150px;
+    font-weight: 900;
+}
+.text{
+  color: #fff;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 300;
+}
+.button {
+  background-color: #9B0000;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  margin-left: 620px;
+  border-radius: 20px;
+}
+
+.button:hover {opacity: 1}
