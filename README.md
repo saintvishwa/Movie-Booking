@@ -1,6 +1,6 @@
 # Movie-Booking
 #This is lite version of Movie Booking system 
-#User can select specific Movie and seats for alloted time then final Bill is generated to pay.
+#User can select specific Movie and seats for allotted time then final Bill is generated to pay.
 
 #Session handling by using Php
 
